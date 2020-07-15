@@ -4,7 +4,7 @@
 |	方法名	|	功能	|	输入	|	输出	|
 |	----	|	----	|	----	|	----	|
 |	transition	|	过度行	|	methods.transition('infomation')	|	![](https://imgkr.cn-bj.ufileos.com/2b1cbca6-537a-4b02-a981-5fb4fa36f96a.png)	|
-|	variable_show	|	展示每列特征的取值个数和占比	|	methods.variable_show(data)	|		![](https://imgkr.cn-bj.ufileos.com/92d2aa11-206e-4c42-9b0c-c3cf2c562272.png)|
+|	variable_show	|	展示每列特征的取值个数和占比	|	methods.variable_show(data)	|		<img src="https://imgkr.cn-bj.ufileos.com/6b72a599-3a06-4b0c-9201-bfef0df50a76.png"  height="100" >|
 |	show_info	|	展示数据的基本信息	|	methods.show_info(data)	|		![](https://imgkr.cn-bj.ufileos.com/c8568df8-cd84-4409-8a51-3050039dc528.png)|
 |	discrete_show	|	所有离散变量的取值分布	|	methods.discrete_show(data)	|	![](https://imgkr.cn-bj.ufileos.com/4417ba64-8c47-4a20-aaca-ea8c1238821c.png)	|
 |	num_show	|	所有连续变量的取值分布	|	methods.num_show(data,figsize=(14,4),titlesize=14)	|	![](https://imgkr.cn-bj.ufileos.com/167bec53-cbc9-4833-b3e3-1a591f3e564b.png)	|
